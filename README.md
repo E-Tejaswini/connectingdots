@@ -5,3 +5,5 @@ available on the board. Players take alternative turns until one of the players 
 has four of her pieces placed consecutively horizontally, vertically or diagonally! 
 In this game, I have used '1' and '2' players. I have designed it on my own so you can look and change the design accordingly.
 ## To complie use command:
+https://github.com/E-Tejaswini/connectingdots/assets/147268553/71200b6f-6c4d-4db5-98df-90d22471442e
+
